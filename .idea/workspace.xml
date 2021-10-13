@@ -24,9 +24,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Array">
+  <component name="RunManager" selected="Application.ArrayMultidimensionalInt">
     <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TiposDeDatosAvanzados.Array" />
+      <module name="TiposDeDatosAvanzados" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayMultidimensionalInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TiposDeDatosAvanzados.ArrayMultidimensionalInt" />
       <module name="TiposDeDatosAvanzados" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -48,6 +55,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayMultidimensionalInt" />
         <item itemvalue="Application.Array" />
         <item itemvalue="Application.StringMetodosYPropiedades" />
         <item itemvalue="Application.Main" />
