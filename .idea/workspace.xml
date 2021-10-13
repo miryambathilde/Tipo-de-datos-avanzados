@@ -24,7 +24,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Vectores">
+  <component name="RunManager" selected="Application.Array_List">
     <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TiposDeDatosAvanzados.Array" />
       <module name="TiposDeDatosAvanzados" />
@@ -39,15 +39,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjemplosArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TiposDeDatosAvanzados.EjemplosArrays" />
+    <configuration name="Array_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TiposDeDatosAvanzados.Array_List" />
       <module name="TiposDeDatosAvanzados" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringMetodosYPropiedades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TiposDeDatosAvanzados.StringMetodosYPropiedades" />
+    <configuration name="EjemplosArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TiposDeDatosAvanzados.EjemplosArrays" />
       <module name="TiposDeDatosAvanzados" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -62,11 +62,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Array_List" />
         <item itemvalue="Application.Vectores" />
         <item itemvalue="Application.EjemplosArrays" />
         <item itemvalue="Application.ArrayMultidimensionalInt" />
         <item itemvalue="Application.Array" />
-        <item itemvalue="Application.StringMetodosYPropiedades" />
       </list>
     </recent_temporary>
   </component>
