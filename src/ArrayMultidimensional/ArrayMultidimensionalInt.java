@@ -1,4 +1,4 @@
-package TiposDeDatosAvanzados;
+package ArrayMultidimensional;
 
 public class ArrayMultidimensionalInt {
     public static void main(String[] args) {
