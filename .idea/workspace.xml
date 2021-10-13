@@ -24,9 +24,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Mapas">
+  <component name="RunManager" selected="Application.Entrada_Salida">
     <configuration name="Array_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TiposDeDatosAvanzados.Array_List" />
+      <module name="TiposDeDatosAvanzados" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Entrada_Salida" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EntradaYSalida.Entrada_Salida" />
       <module name="TiposDeDatosAvanzados" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -53,20 +60,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Vectores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TiposDeDatosAvanzados.Vectores" />
-      <module name="TiposDeDatosAvanzados" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Entrada_Salida" />
         <item itemvalue="Application.Mapas" />
         <item itemvalue="Application.Maths_BigDecimal" />
         <item itemvalue="Application.Linked_List" />
         <item itemvalue="Application.Array_List" />
-        <item itemvalue="Application.Vectores" />
       </list>
     </recent_temporary>
   </component>
