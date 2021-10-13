@@ -24,7 +24,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Maths_BigDecimal">
+  <component name="RunManager" selected="Application.Mapas">
     <configuration name="Array_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TiposDeDatosAvanzados.Array_List" />
       <module name="TiposDeDatosAvanzados" />
@@ -32,15 +32,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjemplosArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TiposDeDatosAvanzados.EjemplosArrays" />
+    <configuration name="Linked_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TiposDeDatosAvanzados.Linked_List" />
       <module name="TiposDeDatosAvanzados" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Linked_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TiposDeDatosAvanzados.Linked_List" />
+    <configuration name="Mapas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TiposDeDatosAvanzados.Mapas" />
       <module name="TiposDeDatosAvanzados" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -62,11 +62,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Mapas" />
         <item itemvalue="Application.Maths_BigDecimal" />
         <item itemvalue="Application.Linked_List" />
         <item itemvalue="Application.Array_List" />
         <item itemvalue="Application.Vectores" />
-        <item itemvalue="Application.EjemplosArrays" />
       </list>
     </recent_temporary>
   </component>
