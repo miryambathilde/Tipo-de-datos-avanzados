@@ -24,7 +24,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.EjemplosArrays">
+  <component name="RunManager" selected="Application.Vectores">
     <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TiposDeDatosAvanzados.Array" />
       <module name="TiposDeDatosAvanzados" />
@@ -46,13 +46,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TiposDeDatosAvanzados.Main" />
-      <module name="TiposDeDatosAvanzados" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StringMetodosYPropiedades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TiposDeDatosAvanzados.StringMetodosYPropiedades" />
       <module name="TiposDeDatosAvanzados" />
@@ -60,13 +53,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Vectores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TiposDeDatosAvanzados.Vectores" />
+      <module name="TiposDeDatosAvanzados" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Vectores" />
         <item itemvalue="Application.EjemplosArrays" />
         <item itemvalue="Application.ArrayMultidimensionalInt" />
         <item itemvalue="Application.Array" />
         <item itemvalue="Application.StringMetodosYPropiedades" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
